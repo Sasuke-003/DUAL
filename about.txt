@@ -1,0 +1,8 @@
+This game is developed for computer gaphics mini project in 6th sem of computer science engineering
+
+
+
+Developers: Adithya Krishna (USN: 4SN17CS003)
+            Mohammad Hafeez (USN: 4SN17CS051)
+
+Special Thanks to our computer graphics lecturer Mr.SUDARSHAN K
